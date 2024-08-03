@@ -49,6 +49,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   </a>
   <img width="12" />
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  </a>
+    <img width="12" />
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
   </a>
