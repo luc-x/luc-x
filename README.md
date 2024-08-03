@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://i.imgur.com/oF8ZMJ5.png"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo" />
   </a>
